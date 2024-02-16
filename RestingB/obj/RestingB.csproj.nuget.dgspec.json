@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj": {}
+    "C:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj": {}
   },
   "projects": {
-    "c:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj": {
+    "C:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj",
+        "projectUniqueName": "C:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj",
         "projectName": "RestingB",
-        "projectPath": "c:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj",
+        "projectPath": "C:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\RestingB.csproj",
         "packagesPath": "C:\\Users\\suren.arakelyan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\obj\\",
+        "outputPath": "C:\\Users\\suren.arakelyan\\Documents\\Programering\\RestingB\\RestingB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
